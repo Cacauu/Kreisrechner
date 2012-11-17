@@ -9,8 +9,8 @@ Inhalt:
 ===
 <ul>
 <li>Scripte zur Eingabe und Berechnung der Ma&szlig;e (index.php; diameter.php; radius.php)</li>
-<li>Icon f&uuml;r den iPhone- und iPad-Homescreen (Pi_icon.png)</li>
-<li>HTML-Seite zum Teilen der Seite (share.html)</li>
+<li>Icon für den iPhone- und iPad-Homescreen (Pi_icon.png)</li>
+<li>HTML-Seite zum Teilen des Rechners (share.html)</li>
 </ul>
 
 
@@ -25,5 +25,4 @@ Anforderungen:
 Da es sich bei dem Kreisrechner um ein PHP-Script handelt, ist eine laufende PHP-Installation zwingend erforderlich.
 
 
-[Demo](http://apptestsss.hostingsociety.com/kreis/kreis.php)
-===
+Demo: http://apptestsss.hostingsociety.com/kreis/kreis.php
